@@ -8,4 +8,5 @@ object Project : Project({
     id = "Test"
     parentId = "_Root"
     name = "test"
+    description = "i like teamcity"
 })
