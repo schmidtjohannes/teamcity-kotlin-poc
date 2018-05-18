@@ -1,4 +1,4 @@
-package Joe
+package Joe_Applications
 
 import jetbrains.buildServer.configs.kotlin.v2017_2.*
 
@@ -32,4 +32,4 @@ the 'Debug' option is available in the context menu for the task.
 */
 
 version = "2017.2"
-project(Joe.Project)
+project(Joe_Applications.Project)
