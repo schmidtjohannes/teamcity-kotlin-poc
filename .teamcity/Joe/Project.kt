@@ -10,6 +10,5 @@ object Project : Project({
     parentId = "_Root"
     name = "Joe"
 
-    vcsRoot(Joe_GasFramework_FileServer_Staging_FileServer)
-    vcsRoot(Joe_ActionRecorder)
+    vcsRoot(Test_Bla)
 })
