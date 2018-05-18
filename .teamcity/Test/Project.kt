@@ -9,4 +9,6 @@ object Project : Project({
     parentId = "_Root"
     name = "Test"
     description = "I like TC a lot"
+
+    build_type(TestBuild)
 })
