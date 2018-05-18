@@ -8,5 +8,5 @@ object Project : Project({
     id = "Test"
     parentId = "_Root"
     name = "Test"
-    description = "I like TC"
+    description = "I like TC a lot"
 })
